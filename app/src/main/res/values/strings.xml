@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Preguntas</string>
+    <string name="txt">PREGUNTAS</string>
+    <string name="b1">VERDADERO</string>
+    <string name="b2">FALSO</string>
+    <string name="b3">SIGUINTE</string>
+    <string name="b4">ATRAS</string>
+
+
+    <string name="p1">Quito es la capital del Ecuador?</string>
+    <string name="p2">Guayaquil es conocida como la Perla del Pacífico?</string>
+    <string name="p3">Riobamba está ubicada en la Provincia de Chimborazo</string>
+    <string name="p4">Cuenca es conocida por la ribera de su río Tomebamba y los productos artesales</string>
+    <string name="p5">Manta esta ubicada en la Provincia del Guayas?</string>
+
+</resources>
